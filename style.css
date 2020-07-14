@@ -1,0 +1,44 @@
+#this{
+	padding: 10px;
+	display: inline;
+}
+div{
+	padding: 10px;
+}
+a{
+	text-decoration: none;
+}
+#Follow{
+	display: inline-block;
+	padding-top: 4px;
+	width: 90px;
+	height: 20px;
+	color: white;
+	text-align: center;
+	background-color: #3296CB;
+	border-style: solid;
+	border-color: #3296CB;
+	border-radius: 4px;
+}
+#Message{
+	display: inline-block;
+	padding-top: 4px;
+	width: 90px;
+	height: 20px;
+	color: white;
+	text-align: center;
+	border-style: groove;
+	border-color: gray;
+	border-radius: 7px;
+}
+#Contact{
+	display: inline-block;
+	padding-top: 4px;
+	width: 90px;
+	height: 20px;
+	color: white;
+	text-align: center;
+	border-style: groove;
+	border-color: gray;
+	border-radius: 7px;
+}
